@@ -1,2 +1,2 @@
 # Quizify
-This project was inspired by the online game Kahoot!
+This project was inspired by the online game Kahoot! and other surveys.
